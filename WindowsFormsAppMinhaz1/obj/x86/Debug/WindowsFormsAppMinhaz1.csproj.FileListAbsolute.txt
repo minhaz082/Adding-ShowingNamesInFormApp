@@ -1,0 +1,9 @@
+C:\Users\miraz\Desktop\C#Practice Office\WindowsFormsAppMinhaz1\WindowsFormsAppMinhaz1\bin\Debug\WindowsFormsAppMinhaz1.exe
+C:\Users\miraz\Desktop\C#Practice Office\WindowsFormsAppMinhaz1\WindowsFormsAppMinhaz1\bin\Debug\WindowsFormsAppMinhaz1.pdb
+C:\Users\miraz\Desktop\C#Practice Office\WindowsFormsAppMinhaz1\WindowsFormsAppMinhaz1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\miraz\Desktop\C#Practice Office\WindowsFormsAppMinhaz1\WindowsFormsAppMinhaz1\obj\x86\Debug\WindowsFormsAppMinhaz1.Form1.resources
+C:\Users\miraz\Desktop\C#Practice Office\WindowsFormsAppMinhaz1\WindowsFormsAppMinhaz1\obj\x86\Debug\WindowsFormsAppMinhaz1.Properties.Resources.resources
+C:\Users\miraz\Desktop\C#Practice Office\WindowsFormsAppMinhaz1\WindowsFormsAppMinhaz1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\miraz\Desktop\C#Practice Office\WindowsFormsAppMinhaz1\WindowsFormsAppMinhaz1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\miraz\Desktop\C#Practice Office\WindowsFormsAppMinhaz1\WindowsFormsAppMinhaz1\obj\x86\Debug\WindowsFormsAppMinhaz1.exe
+C:\Users\miraz\Desktop\C#Practice Office\WindowsFormsAppMinhaz1\WindowsFormsAppMinhaz1\obj\x86\Debug\WindowsFormsAppMinhaz1.pdb
